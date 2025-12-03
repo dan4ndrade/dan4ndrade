@@ -36,7 +36,7 @@ refactors, to obsessing over **latency, reliability and observability** in produ
 [<img align="left" height="94px" width="94px" alt="Grupo Boticário" src="https://github.com/grupoboticario.png" />](https://www.grupoboticario.com.br)
 
 **Developer Specialist II • Technical Lead** \
-[**Grupo Boticário**](https://www.grupoboticario.com.br/) • Digital Financial Products Platform
+[**Grupo Boticário**](https://www.grupoboticario.com.br/) • Digital Financial Products Platform </br>
 
 Leading the architecture of a **multi-product Customer Onboarding Platform** for credit & payments:
 
@@ -51,7 +51,7 @@ Leading the architecture of a **multi-product Customer Onboarding Platform** for
 [<img align="left" height="94px" width="94px" alt="Grupo Boticário" src="https://github.com/itau.png" />](https://www.itau.com.br)
 
 **Senior Java Software Engineer** \
-[**Banco Itaú**](https://www.itau.com.br) • Agro-business Banking & Core Services
+[**Banco Itaú**](https://www.itau.com.br) • Agro-business Banking & Core Services </br>
 
 Worked on **agro-business banking** (current accounts, cards, rural credit) and modernization of core services:
 
@@ -64,7 +64,7 @@ Worked on **agro-business banking** (current accounts, cards, rural credit) and 
 [<img align="left" height="94px" width="94px" alt="Grupo Boticário" src="https://github.com/gruposantander.png" />](https://www.santander.com.br)
 
 **Senior Java Software Analyst** \
-[**Banco Santander**](https://www.santander.com.br) • Instant Payments & Core Payments Engine
+[**Banco Santander**](https://www.santander.com.br) • Instant Payments & Core Payments Engine </br>
 
 Worked on Brazil’s **instant payments** and Tier-0 core payments engine:
 
@@ -77,7 +77,7 @@ Worked on Brazil’s **instant payments** and Tier-0 core payments engine:
 [<img align="left" height="94px" width="94px" alt="Grupo Boticário" src="https://github.com/accenture.png" />](https://www.accenture.com/br-pt)
 
 **Java Software Engineer** \
-[**Accenture**](https://www.accenture.com) • Public Transportation Benefit Platform
+[**Accenture**](https://www.accenture.com) • Public Transportation Benefit Platform </br>
 
 Built features end-to-end for a **public-transportation benefit sales platform**:
 
