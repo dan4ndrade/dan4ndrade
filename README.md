@@ -31,7 +31,7 @@ I enjoy operating in the intersection of **architecture, coding, and leadership*
 from slicing roadmaps and writing ADRs, to pairing with engineers on tricky
 refactors, to obsessing over **latency, reliability and observability** in production.
 
-## 🔭 Currently working on
+## Currently working on
 
 [<img align="left" height="94px" width="94px" alt="Grupo Boticário" src="https://github.com/grupoboticario.png" />](https://www.grupoboticario.com.br)
 
